@@ -5,6 +5,7 @@ A Rock Paper Scissors game built as a JavaScript practice project.
 ## About
 
 This project explores the logic behind a simple game, including player choices, computer choices and determining the winner.
+Check it out at <a href='https://cinderhq.github.io/Rock-Paper-Scissors/'>Cinder's Rock-Paper-Scissors Game</a>
 
 ## What I Learned
 
